@@ -1,0 +1,37 @@
+,country_code,country,Rank,Password,User_count,Global_rank,time,Time_to_crack_in_seconds,Password_Length,Continent,Has_Upper,Has_Lower,Has_Num,Has_Special_Char,Has_len_Over12,Password_Complexity,Log_of_TTCIS
+9577,us,United States,81,fuckyou1,118720,131.0,0.19 MILLISECONDS,0.0,8,NC America,False,True,True,False,False,2,0.0
+9578,us,United States,92,scooter,110163,,0.19 MILLISECONDS,0.0,7,NC America,False,True,False,False,False,1,0.0
+9579,us,United States,105,midnight,101448,,0.19 MILLISECONDS,0.0,8,NC America,False,True,False,False,False,1,0.0
+9580,us,United States,112,heather,97704,,0.19 MILLISECONDS,0.0,7,NC America,False,True,False,False,False,1,0.0
+9581,us,United States,115,anthony1,94568,,1 DAYS 21 HOURS 58 MINUTES 54 SECONDS 83 JIFFIES 3 MILLISECONDS,165534.0,8,NC America,False,True,True,False,False,2,12.016937931802973
+9582,us,United States,129,baseball1,77903,,2 MONTHS 1 WEEKS 1 DAYS 23 HOURS 20 MINUTES 18 SECONDS 100 JIFFIES 10 MILLISECONDS,5430018.0,9,NC America,False,True,True,False,False,2,15.507453190983187
+9583,us,United States,130,sunshine1,77725,,2 MONTHS 1 WEEKS 1 DAYS 23 HOURS 20 MINUTES 18 SECONDS 100 JIFFIES 10 MILLISECONDS,5430018.0,9,NC America,False,True,True,False,False,2,15.507453190983187
+9584,us,United States,136,yankees,73702,,0.19 MILLISECONDS,0.0,7,NC America,False,True,False,False,False,1,0.0
+9585,us,United States,146,softball,69755,,0.19 MILLISECONDS,0.0,8,NC America,False,True,False,False,False,1,0.0
+9586,us,United States,147,iloveyou2,69392,,0.19 MILLISECONDS,0.0,9,NC America,False,True,True,False,False,2,0.0
+9587,us,United States,149,shopping,68284,,1 JIFFIES 8 MILLISECONDS,0.0,8,NC America,False,True,False,False,False,1,0.0
+9588,us,United States,152,fuckyou2,66133,,1 DAYS 21 HOURS 58 MINUTES 54 SECONDS 83 JIFFIES 3 MILLISECONDS,165534.0,8,NC America,False,True,True,False,False,2,12.016937931802973
+9589,us,United States,153,steelers,65876,,0.19 MILLISECONDS,0.0,8,NC America,False,True,False,False,False,1,0.0
+9590,us,United States,155,peaches,64614,,0.19 MILLISECONDS,0.0,7,NC America,False,True,False,False,False,1,0.0
+9591,us,United States,157,poohbear,64016,,0.19 MILLISECONDS,0.0,8,NC America,False,True,False,False,False,1,0.0
+9592,us,United States,159,babygirl1,63731,,2 MONTHS 1 WEEKS 1 DAYS 23 HOURS 20 MINUTES 18 SECONDS 100 JIFFIES 10 MILLISECONDS,5430018.0,9,NC America,False,True,True,False,False,2,15.507453190983187
+9593,us,United States,160,snowflake,63113,,0.19 MILLISECONDS,0.0,9,NC America,False,True,False,False,False,1,0.0
+9594,us,United States,164,superman1,61876,,2 MONTHS 1 WEEKS 1 DAYS 23 HOURS 20 MINUTES 18 SECONDS 100 JIFFIES 10 MILLISECONDS,5430018.0,9,NC America,False,True,True,False,False,2,15.507453190983187
+9595,us,United States,170,redsox,57770,,0.19 MILLISECONDS,0.0,6,NC America,False,True,False,False,False,1,0.0
+9596,us,United States,171,cowboys,57595,,0.19 MILLISECONDS,0.0,7,NC America,False,True,False,False,False,1,0.0
+9597,us,United States,175,dallas,55516,,0.19 MILLISECONDS,0.0,6,NC America,False,True,False,False,False,1,0.0
+9598,us,United States,178,snickers,54563,,0.19 MILLISECONDS,0.0,8,NC America,False,True,False,False,False,1,0.0
+9599,us,United States,179,lakers,54088,,0.19 MILLISECONDS,0.0,6,NC America,False,True,False,False,False,1,0.0
+9600,us,United States,180,money1,54031,,0.19 MILLISECONDS,0.0,6,NC America,False,True,True,False,False,2,0.0
+9601,us,United States,181,ladybug,53902,,0.19 MILLISECONDS,0.0,7,NC America,False,True,False,False,False,1,0.0
+9602,us,United States,184,ranger,53508,,0.19 MILLISECONDS,0.0,6,NC America,False,True,False,False,False,1,0.0
+9603,us,United States,187,corvette,52969,,0.19 MILLISECONDS,0.0,8,NC America,False,True,False,False,False,1,0.0
+9604,us,United States,189,aaron431,52604,,1 DAYS 21 HOURS 58 MINUTES 54 SECONDS 83 JIFFIES 3 MILLISECONDS,165534.0,8,NC America,False,True,True,False,False,2,12.016937931802973
+9605,us,United States,191,asdf3423,52326,,1 DAYS 21 HOURS 58 MINUTES 54 SECONDS 83 JIFFIES 3 MILLISECONDS,165534.0,8,NC America,False,True,True,False,False,2,12.016937931802973
+9606,us,United States,193,bigdaddy,51856,,0.19 MILLISECONDS,0.0,8,NC America,False,True,False,False,False,1,0.0
+9607,us,United States,194,blessed1,51678,,1 DAYS 21 HOURS 58 MINUTES 54 SECONDS 83 JIFFIES 3 MILLISECONDS,165534.0,8,NC America,False,True,True,False,False,2,12.016937931802973
+9608,us,United States,196,asshole1,51522,,1 DAYS 21 HOURS 58 MINUTES 54 SECONDS 83 JIFFIES 3 MILLISECONDS,165534.0,8,NC America,False,True,True,False,False,2,12.016937931802973
+9609,us,United States,197,pussy,51493,,0.19 MILLISECONDS,0.0,5,NC America,False,True,False,False,False,1,0.0
+9610,us,United States,198,muffin,51384,,0.19 MILLISECONDS,0.0,6,NC America,False,True,False,False,False,1,0.0
+9611,us,United States,199,dancer,51238,,0.19 MILLISECONDS,0.0,6,NC America,False,True,False,False,False,1,0.0
+9612,us,United States,200,madison1,50989,,1 DAYS 21 HOURS 58 MINUTES 54 SECONDS 83 JIFFIES 3 MILLISECONDS,165534.0,8,NC America,False,True,True,False,False,2,12.016937931802973
