@@ -4,7 +4,7 @@
 - Examined the top 200 most common password trends of 49 countries to help business owners and IT leaders make informed password related decisions. 
 
 ## What's in the folder?
-- Password Time Over Years - CSV files
+- Password Time Over Years - CSV files of top 200 most common passwords and the time it would have taken to crack in years 2015 to 2020.
 
 ## Findings
 - Of all the unique passwords on the list in 2020, I found that 84.3% of the passwords had a complexity of one. Which means that they contained only one character type such as being in all lower case or all uppercase. 
